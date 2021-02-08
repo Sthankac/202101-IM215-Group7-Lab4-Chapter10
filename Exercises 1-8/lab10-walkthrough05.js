@@ -5,3 +5,4 @@ $(function	()	{
 				var	panel	=	$('.panel');						
 				panel.append(img);				
 });
+//when we add append to the last command the picture appends beside the text
