@@ -16,3 +16,5 @@ $(function	()	{
 											$(".panel").off("mousemove");
 								});		
 });	
+//initially when you move the mouse pointer the x and y axis will appear 
+//later when you click anywhere on the screen a message appears
